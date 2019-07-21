@@ -1,1 +1,2 @@
 Las instrucciones del robot estan en la tablet.
+Esta es otra linea de texto.
